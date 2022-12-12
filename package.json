@@ -1,0 +1,29 @@
+{
+  "name": "challenge5",
+  "version": "1.0.0",
+  "description": "Uses an open dataset API within React that uses the dataset tp display a height list of characters from tallest to shortest.\n\nYou can use the dataset you used in your last assessments if you like. There’s also a really good Star Wars dataset that sh",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "mvp.css": "1.12.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "4.0.0"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

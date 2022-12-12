@@ -1,0 +1,16 @@
+.App {
+	font-family: sans-serif;
+	text-align: center;
+}
+
+.Placement {
+	padding-left: 25px;
+}
+
+.Name {
+	text-align: left;
+}
+
+td {
+	width: 200px;
+}
