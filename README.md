@@ -2,4 +2,4 @@
 Created with CodeSandbox
 
 Open link to view in browser:
-[React Challenge][(https://codesandbox.io/s/github/ChelseaBahsler/WebDev2-React-Challenge)]
+[React Challenge](https://codesandbox.io/s/github/ChelseaBahsler/WebDev2-React-Challenge)
