@@ -4,5 +4,6 @@ Open link to view in browser:
 
 ### Project Details
 <p>A beginning project / introduction to working in React.js</p>
+
 * API used: [Star Wars Characters API](https://swapi.dev/api/people/)</p>
 * Created with CodeSandbox
