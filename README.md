@@ -1,8 +1,8 @@
 # WebDev2-React-Challenge
 Created with CodeSandbox
 
-A challenge / introduction to using UseEffect and React hooks.
-
-
 Open link to view in browser:
 [React Challenge](https://codesandbox.io/s/github/ChelseaBahsler/WebDev2-React-Challenge)
+
+A beginning project / introduction to working in React.js
+API used: [Star Wars Characters API](https://swapi.dev/api/people/)
